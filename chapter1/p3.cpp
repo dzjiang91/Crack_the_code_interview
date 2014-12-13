@@ -4,7 +4,9 @@
 #include <iostream>
 #include <string>
 using namespace std;
+
 bool compare(string &str1, string &str2);
+
 int main(){
   string str1;
   string str2;
